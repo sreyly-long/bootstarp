@@ -1,0 +1,15 @@
+*{
+    color: darkblue;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+.btn{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    
+}
+
